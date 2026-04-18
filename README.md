@@ -1,2 +1,2 @@
-# Python_Arrays
-Arrays Developed in Python
+# Python-Exercises
+Exercises Developed in Python
